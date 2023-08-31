@@ -18,9 +18,8 @@ height: 100vh;}
   top: 0;
   left: calc(50% - 720px);
   background-color: #f5f8ff;
-  width: 1440px;
-  height: 719px;
-  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
   opacity: 0;
 }
 .desktop-3.animate {
