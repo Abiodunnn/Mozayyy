@@ -1097,9 +1097,9 @@ height: 100vh;}
 .desktop-2 {
   position: relative;
   background-color: var(--color-white);
-  /*width: 100%;
+  width: 100vw;
   height: 5860px;
-  overflow: hidden;*/
+  /*overflow: hidden;*/
   text-align: left;
   font-size: var(--font-size-xl);
   color: var(--color-blue-100);
