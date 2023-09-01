@@ -2108,9 +2108,8 @@
 .desktop-5 {
   position: relative;
   background-color: var(--color-gray-200);
-  width: 100%;
+  width: 100vw;
   height: 16361px;
-  overflow: hidden;
   text-align: left;
   font-size: var(--font-size-13xl);
   color: var(--color-gray-1000);
